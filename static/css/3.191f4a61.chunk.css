@@ -1,7 +1,18 @@
 :root {
     --reach-dialog: 1
 }
-
+.llaVqC{
+    background-color: #c45641;
+}
+.llaVqC:hover:not(:disabled):not(.button--disabled):not(:active){
+    background-color: #e6a64f;
+}
+.fVfIRO{
+    background-color: #c45641;
+}
+.fVfIRO:hover:not(:disabled):not(.button--disabled):not(:active){
+    background-color: #e6a64f;
+}
 [data-reach-dialog-overlay] {
     background: rgba(0, 0, 0, .33);
     position: fixed;
