@@ -14,7 +14,30 @@
     background-color: #e6a64f;
 }
 .ddbdfU{
-     background-color: #c45641;
+    background-color: #c45641;
+}
+.kjBbpq{
+    background-color: #e6a64f;
+}
+.pYbLu{
+    color: #e6a64f;
+}
+.ddbdfU {
+    background-image: url(/images/astronaut.png), 
+    url(/images/act.png), 
+    url(/images/act.png);
+}
+.ekyuFu {
+    background-image: url(/images/astronaut.png), 
+    url(/images/act.png), 
+    url(/images/act.png);
+}
+.kqBEYC .desktop-icon {
+    display: none;
+}
+.kqBEYC .mobile-icon {
+    display: none;
+    width: 32px;
 }
 [data-reach-dialog-overlay] {
     background: rgba(0, 0, 0, .33);
