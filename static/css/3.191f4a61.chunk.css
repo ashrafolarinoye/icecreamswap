@@ -13,6 +13,9 @@
 .fVfIRO:hover:not(:disabled):not(.button--disabled):not(:active){
     background-color: #e6a64f;
 }
+.ddbdfU{
+     background-color: #c45641;
+}
 [data-reach-dialog-overlay] {
     background: rgba(0, 0, 0, .33);
     position: fixed;
