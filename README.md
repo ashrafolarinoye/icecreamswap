@@ -1,3 +1,3 @@
-# Vanilla Swap
+# UfoSwap
 
 https://swap.IceCreamSwap.finance
